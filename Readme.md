@@ -200,7 +200,12 @@ Plugins that enable various effects:
 ### Alternate composition middleware
 
   * [redux-gen](https://github.com/weo-edu/redux-gen)
+  * [redux-effects-fetch-fixture](https://github.com/team-boris/redux-effects-fetch-fixture) - serving fixtures for local development
 
 ### Composition helpers
 
   * [declarative-promise](https://github.com/redux-effects/declarative-promise) - Wrap your actions in a promise-like interface
+
+### Test helpers
+
+  * [redux-effects-test-jasmine](https://github.com/team-boris/redux-effects-test-jasmine) for testing with jasmine
